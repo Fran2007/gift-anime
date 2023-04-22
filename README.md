@@ -24,7 +24,7 @@ Install dependencies using npm
 
 Open your browser and visit the following URL: http://localhost:3000 to see the application running.
 
-### Use tegnology
+### Used technology
 
 The project uses the following technologies:
 
@@ -34,7 +34,7 @@ CSS: Styling language used to style the application.
 
 GitHub: Source code hosting platform used to store and share the project repository.
 
-### Contribution
+### Contributions
 
 If you want to contribute to this project, you can follow the steps below:
 
