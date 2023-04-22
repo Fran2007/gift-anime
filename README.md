@@ -28,7 +28,7 @@ CSS: Lenguaje de estilo utilizado para dar estilo a la aplicación.
 
 GitHub: Plataforma de alojamiento de código fuente utilizado para almacenar y compartir el repositorio del proyecto.
 
-Contribución
+### Contribución
 Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
 
 1. Haz un fork del repositorio en GitHub.
