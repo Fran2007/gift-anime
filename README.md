@@ -1,7 +1,5 @@
 # gift-anime
 
-![neko](../public/gifsNekos.jpg)
-
 # gif project
 
 This project is a web application that displays nekos anime gifs fetched from nekos.best public API. Users can randomly generate and view gifs of nekos.
