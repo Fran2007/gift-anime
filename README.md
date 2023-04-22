@@ -2,38 +2,44 @@
 
 ![neko](../public/gifsNekos.jpg)
 
-# Proyecto de gisfs
+# gif project
 
-Este proyecto es una aplicación web que muestra gifs de anime nekos obtenidas de la API pública de nekos.best. Los usuarios pueden generar y ver gifs de nekos de forma aleatoria.
+This project is a web application that displays nekos anime gifs fetched from nekos.best public API. Users can randomly generate and view gifs of nekos.
 
-## Instalación
+## Instalation
 
-Sigue los pasos a continuación para instalar y ejecutar el proyecto en tu entorno local:
+Follow the steps below to install and run the project in your local environment:
 
-Clona el repositorio desde GitHub:
+Clone the repository from GitHub:
 
-git clone https://github.com/Frank2007/proyecto-anime-nekos.git
+`git clone https://github.com/Frank2007/proyecto-anime-nekos.git`
 
-Navega a la carpeta del proyecto:
+Navigate to the project folder:
 
-cd proyecto-anime-nekos
+`cd proyecto-anime-nekos`
 
-### Tecnologias utilizadas
+Install dependencies using npm
 
-El proyecto utiliza las siguientes tecnologías:
+`npm start`
 
-React: Una biblioteca de JavaScript para construir interfaces de usuario.
+Open your browser and visit the following URL: http://localhost:3000 to see the application running.
 
-CSS: Lenguaje de estilo utilizado para dar estilo a la aplicación.
+### Use tegnology
 
-GitHub: Plataforma de alojamiento de código fuente utilizado para almacenar y compartir el repositorio del proyecto.
+The project uses the following technologies:
 
-### Contribución
+React: A JavaScript library for building user interfaces.
 
-Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
+CSS: Styling language used to style the application.
 
-1. Haz un fork del repositorio en GitHub.
-2. Crea una rama con un nombre descriptivo para tu contribución.
-3. Realiza tus cambios en la nueva rama.
-4. Haz un pull request a la rama principal del repositorio.
-5. Espera la revisión y aprobación de tu contribución por parte de los colaboradores del proyecto.
+GitHub: Source code hosting platform used to store and share the project repository.
+
+### Contribution
+
+If you want to contribute to this project, you can follow the steps below:
+
+1. Fork the repository on GitHub.
+2. Create a branch with a descriptive name for your contribution.
+3. Make your changes to the new branch.
+4. Make a pull request to the main branch of the repository.
+5. Wait for the review and approval of your contribution by the project collaborators.
