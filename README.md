@@ -1,7 +1,8 @@
 # gift-anime
 
 
-# PROYECTO DE GIFS
+
+# Proyecto de gisfs
 
 Este proyecto es una aplicación web que muestra gifs de anime nekos obtenidas de la API pública de nekos.best. Los usuarios pueden generar y ver gifs de nekos de forma aleatoria.
 
@@ -22,7 +23,9 @@ cd proyecto-anime-nekos
 El proyecto utiliza las siguientes tecnologías:
 
 React: Una biblioteca de JavaScript para construir interfaces de usuario.
+
 CSS: Lenguaje de estilo utilizado para dar estilo a la aplicación.
+
 GitHub: Plataforma de alojamiento de código fuente utilizado para almacenar y compartir el repositorio del proyecto.
 
 Contribución
