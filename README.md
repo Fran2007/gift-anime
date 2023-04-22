@@ -1,22 +1,24 @@
 # gift-anime
 
 
-Proyecto Anime Nekos
+# PROYECTO DE GIFS
+
 Este proyecto es una aplicación web que muestra gifs de anime nekos obtenidas de la API pública de nekos.best. Los usuarios pueden generar y ver gifs de nekos de forma aleatoria.
 
-Instalación
+## Instalación
+
 Sigue los pasos a continuación para instalar y ejecutar el proyecto en tu entorno local:
 
 Clona el repositorio desde GitHub:
 
- 
 git clone https://github.com/Frank2007/proyecto-anime-nekos.git
 
 Navega a la carpeta del proyecto:
  
 cd proyecto-anime-nekos
 
-Tecnologías utilizadas
+### Tecnologias utilizadas
+
 El proyecto utiliza las siguientes tecnologías:
 
 React: Una biblioteca de JavaScript para construir interfaces de usuario.
