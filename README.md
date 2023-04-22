@@ -1,6 +1,6 @@
 # gift-anime
 
-
+![neko](../public/gifsNekos.jpg)
 
 # Proyecto de gisfs
 
@@ -15,7 +15,7 @@ Clona el repositorio desde GitHub:
 git clone https://github.com/Frank2007/proyecto-anime-nekos.git
 
 Navega a la carpeta del proyecto:
- 
+
 cd proyecto-anime-nekos
 
 ### Tecnologias utilizadas
