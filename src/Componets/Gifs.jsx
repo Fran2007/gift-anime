@@ -1,8 +1,8 @@
-import { useFetch } from '../Hooks/useFetch';
-import { GifsNekos } from './GifsNekos';
+import { useFetch } from "../hooks/useFetch";
+import { GifsNekos } from "./GifsNekos";
 
 export function Gifs() {
-  const { data, fetchData } = useFetch('https://nekos.best/api/v2/highfive');
+  const { data, fetchData } = useFetch("https://nekos.best/api/v2/highfive");
 
   return (
     <div>
