@@ -20,7 +20,7 @@ Install dependencies using npm
 
 `npm start`
 
-Open your browser and visit the following URL: http://localhost:3000 to see the application running.
+Open your browser and visit the following URL: https://64449affcb83b74334255ba1--melodious-cat-10e047.netlify.app/ to see the application running.
 
 ### Used technology
 
