@@ -1,4 +1,4 @@
-import { Gifs } from "./componets/Gifs";
+import { Gifs } from "./components/Gifs";
 
 function App() {
   return <Gifs />;
